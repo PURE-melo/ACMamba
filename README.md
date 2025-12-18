@@ -1,4 +1,4 @@
-# ACMamba: Fast Unsupervised Anomaly Detection via An Asymmetrical Consensus State Space Model
+# [ACM MM 2025] ACMamba: Fast Unsupervised Anomaly Detection via An Asymmetrical Consensus State Space Model
 
 Official implementation of ACMamba : [paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755576)
 
